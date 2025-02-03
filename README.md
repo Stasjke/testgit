@@ -8,5 +8,5 @@ git status  - для проверки изменений
 git add[files]  - добавляет файлы в stage (git add .)
 git commit -m "comment"  (прочитать коммент можно при помоши git log)
 git log / git log --oneline  (подробная информация / краткая информация о comment)
-git push [rep_link] [branch_name]
+git push [rep_link] [branch_name] - git branch 
 git push origin master
