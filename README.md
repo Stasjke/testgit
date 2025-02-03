@@ -22,7 +22,7 @@ git remote add origin [link]  подключить к проекту гит
 git branch develop - создали ветку develop
 git checkout [name_branch] переключение на ветку другую
 перенос изменений из веток в другие:
-1.
+1. через гит хаб 
 git pull request  на github 
 git pull [rep_link] [branch_name] 
 git pull origin master - для загрузки файлов из github
