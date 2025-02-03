@@ -17,7 +17,7 @@ git remote add origin [link]  подключить к проекту гит
 4.git log / git log --oneline  (подробная информация / краткая информация о comment)
 5. git push [rep_link] [branch_name] -  
 
-/*-git push origin master
+-git push origin master
 //
 git branch develop - создали ветку develop
 git checkout [name_branch] переключение на ветку другую
@@ -28,6 +28,6 @@ git pull [rep_link] [branch_name]
 git pull origin master - для загрузки файлов из github
 git branch -D [develop]  удаление ветки [develop]
 
-2.
+2. через терминал пуш на гитхаб gut merge
 git merge [branch] 
-git merge feature/main-page */
+git merge feature/main-page
